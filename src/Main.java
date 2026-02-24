@@ -1,3 +1,3 @@
 public class Main {
-    Fruit fruit = new Fruit();
+    Fruit fruit143204 = new Fruit();
 }
